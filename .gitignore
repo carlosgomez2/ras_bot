@@ -1,3 +1,4 @@
 Set_up_bot.md
 stopwords.txt
 *.env
+*.env~
